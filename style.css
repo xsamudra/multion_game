@@ -1,0 +1,43 @@
+/*
+	 CSS-Tricks Example
+	 by Chris Coyier
+	 http://css-tricks.com
+*/
+
+*					{ margin: 0; padding: 0; background-color: #008080;}
+body				{ font: 14px Segoe UI, serif; color: #FFF;}
+
+#page-wrap		    { width: 300px; margin: 0 auto; }
+
+h1                  { margin: 25px 0; font: 36px Segoe UI, Serif; color: #FFA500; text-transform: uppercase; letter-spacing: 3px; }
+
+#quiz input {
+    vertical-align: middle;
+}
+#quiz li{
+	font-size: 12px;
+}
+
+#quiz ol {
+   margin: 0 0 10px 20px;
+}
+
+#quiz ol li {
+   margin: 0 0 20px 0;
+}
+
+#quiz ol li div {
+   padding: 4px 0;
+}
+
+#quiz h3 {
+   font-size: 12px; margin: 0 0 1px 0; color: #FFA500;
+}
+
+#quiz label{
+	font-size: 12px;
+}
+
+#results {
+    font: 44px Segoe UI, Serif;
+}
